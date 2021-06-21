@@ -1,0 +1,1 @@
+<img src="https://metrics.lecoq.io/szymolekk">
